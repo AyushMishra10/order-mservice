@@ -13,7 +13,7 @@ import com.prj.ms.order.service.OrderService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/order")
 @RequiredArgsConstructor
 public class OrderController {
 	
